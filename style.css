@@ -1,0 +1,13 @@
+body {
+    font-family: Arial;
+    background-color: #fff0f5;
+    text-align: center;
+}
+
+.cake {
+    background-color: pink;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 10px;
+    display: inline-block;
+}
